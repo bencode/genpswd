@@ -1,6 +1,6 @@
 # genpswd
 
-generator password by commandline
+generate password
 
 ```shell
 npx genpswd       # lowercase and numbers, 8 length for default
