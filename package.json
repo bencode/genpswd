@@ -1,6 +1,6 @@
 {
   "name": "genpswd",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "generator password by commentline",
   "main": "lib/index.js",
   "bin": {
