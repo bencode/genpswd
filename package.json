@@ -2,8 +2,20 @@
   "name": "genpswd",
   "version": "0.0.1",
   "description": "generator password by commentline",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "bin": {
+    "genpswd": "bin/genpswd.js"
+  },
   "scripts": {
+    "lint": "eslint lib",
+    "test": "jest lib",
+    "cov": "jest --coverage lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-bce": "^5.0.0",
+    "jest": "^25.1.0"
   },
   "repository": {
     "type": "git",
