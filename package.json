@@ -1,0 +1,18 @@
+{
+  "name": "genpswd",
+  "version": "0.0.1",
+  "description": "generator password by commentline",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencode/genpswd.git"
+  },
+  "author": "bencode@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bencode/genpswd/issues"
+  },
+  "homepage": "https://github.com/bencode/genpswd#readme"
+}
